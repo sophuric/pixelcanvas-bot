@@ -4,7 +4,7 @@
 
 Setup: (assuming Firefox, but any web browser would work)
 - Install [Node.js](https://nodejs.org/) and [ImageMagick](https://imagemagick.org/)
-- Clone the repository using `git clone https://github.com/mekb-turtle/pixel-canvas-bot.git` or download .zip/.tar.gz of the repository and extract it
+- Clone the repository using `git clone https://github.com/sophuric/pixelcanvas-bot.git` or download .zip/.tar.gz of the repository and extract it
 - Run `npm i` in the directory to install the dependencies
 - Create a new file called `.env` in the directory of the repository
 - Go to [PixelCanvas.io](https://pixelcanvas.io)
