@@ -1,5 +1,9 @@
 ### [PixelCanvas.io](https://pixelcanvas.io) bot
 
+> [!WARNING]
+> I really can't be bothered to maintain this. I'm not sure if this still works: Updating the dependencies seems to break crap.
+> Feel free to create a pull or fork if someone wants to try fixing it.
+
 ## ![Color Palette](palette_preview.png)
 
 Setup: (assuming Firefox, but any web browser would work)
